@@ -1,0 +1,7 @@
+C:\Users\Amol\source\repos\Assigment01_Ques5\Assigment01_Ques5\bin\Debug\Assigment01_Ques5.exe.config
+C:\Users\Amol\source\repos\Assigment01_Ques5\Assigment01_Ques5\bin\Debug\Assigment01_Ques5.exe
+C:\Users\Amol\source\repos\Assigment01_Ques5\Assigment01_Ques5\bin\Debug\Assigment01_Ques5.pdb
+C:\Users\Amol\source\repos\Assigment01_Ques5\Assigment01_Ques5\obj\Debug\Assigment01_Ques5.csproj.AssemblyReference.cache
+C:\Users\Amol\source\repos\Assigment01_Ques5\Assigment01_Ques5\obj\Debug\Assigment01_Ques5.csproj.CoreCompileInputs.cache
+C:\Users\Amol\source\repos\Assigment01_Ques5\Assigment01_Ques5\obj\Debug\Assigment01_Ques5.exe
+C:\Users\Amol\source\repos\Assigment01_Ques5\Assigment01_Ques5\obj\Debug\Assigment01_Ques5.pdb

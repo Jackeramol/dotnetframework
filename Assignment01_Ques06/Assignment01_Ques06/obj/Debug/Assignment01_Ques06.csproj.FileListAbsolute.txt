@@ -1,0 +1,7 @@
+C:\Users\Amol\source\repos\Assignment01_Ques06\Assignment01_Ques06\bin\Debug\Assignment01_Ques06.exe.config
+C:\Users\Amol\source\repos\Assignment01_Ques06\Assignment01_Ques06\bin\Debug\Assignment01_Ques06.exe
+C:\Users\Amol\source\repos\Assignment01_Ques06\Assignment01_Ques06\bin\Debug\Assignment01_Ques06.pdb
+C:\Users\Amol\source\repos\Assignment01_Ques06\Assignment01_Ques06\obj\Debug\Assignment01_Ques06.csproj.AssemblyReference.cache
+C:\Users\Amol\source\repos\Assignment01_Ques06\Assignment01_Ques06\obj\Debug\Assignment01_Ques06.csproj.CoreCompileInputs.cache
+C:\Users\Amol\source\repos\Assignment01_Ques06\Assignment01_Ques06\obj\Debug\Assignment01_Ques06.exe
+C:\Users\Amol\source\repos\Assignment01_Ques06\Assignment01_Ques06\obj\Debug\Assignment01_Ques06.pdb
